@@ -22,7 +22,13 @@ assignees: pattacini
 
 ## Release Description
 
-## Testing
+## Development
+- [ ] Dev 1
+- [ ] Dev 2
+
+## Tests
+- [ ] Test 1
+- [ ] Test 2
 
 <!--
 Once you have filled in all the fields, do:
