@@ -25,7 +25,7 @@ assignees: pattacini
 ## Testing
 
 <!--
-Once you filled in all the fields, do:
+Once you have filled in all the fields, do:
 - Create the Epic
 - Create the corresponding Release in ZenHub
 - Create the issues to track the required tasks
