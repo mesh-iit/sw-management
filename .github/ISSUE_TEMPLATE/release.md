@@ -22,4 +22,6 @@ assignees: pattacini
 
 ## Release Description
 
-<-- Turn this issue into an Epic and link all the related tasks -->
+## Testing
+
+<!-- Create an Epic and link all the related tasks -->
