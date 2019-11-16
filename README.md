@@ -1,4 +1,4 @@
-# sw-distro-management
+# SW Distro Management
 
 ### SW Distros delivery
 The following are general remarks detailing our distro workflow:
@@ -10,3 +10,9 @@ The following are general remarks detailing our distro workflow:
 - 🐛 Patches are coded as **YYYY.MM.nn**.
 - 📦 Exceptionally, we may deliver **feature-based releases** (only tags/branches, no binaries) as **YYYY.MM.feat-nn**.
 - 👨‍💼 A **Distro Manager** oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow alway runs smoothly and timely.
+
+### 👨‍💼 Disto Manager
+
+| Manager | Period |
+| :---: | :---: |
+| [@pattacini](https://github.com/pattacini) | 2019/11 - currently in charge |
