@@ -15,6 +15,6 @@ The following are general remarks detailing our distro workflow:
 
 ### Distro Manager 👨‍💼
 
-| Manager | Period |
-| :--- | :--- |
-| [@pattacini](https://github.com/pattacini) | 2019/11 - currently in charge |
+| Manager | Start Date | End Date |
+| :--- | :--- | :--- |
+| [@pattacini](https://github.com/pattacini) | 2019/11 | currently in charge |
