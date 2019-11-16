@@ -1,6 +1,6 @@
 # SW Distro Management
 
-### SW Distros delivery
+### 🚚 SW Distros delivery
 The following are general remarks detailing our distro workflow:
 - 📅 SW Distros are delivered on a **time-based workflow**, rather than feature-based as we were used to.
 - 4️⃣ SW Distros are released along with the **binaries at each quarter**, aligned with Program Increments + 1, **PI+1**: 01-Feb, 01-May, 01-Aug, 01-Nov.
