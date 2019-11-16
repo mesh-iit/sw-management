@@ -15,10 +15,10 @@ assignees: pattacini
 ## Release Name
 
 ## Release Deadline
-| | |
+| Deadline | Date |
 | :--- | :--- |
-| Expected Deadline | YYYY/MM/DD |
-| Robot Delivery Deadline (if applicable) | YYYY/MM/DD |
+| Expected | YYYY/MM/DD |
+| Robot Delivery (if applicable) | YYYY/MM/DD |
 
 ## Release Description
 
