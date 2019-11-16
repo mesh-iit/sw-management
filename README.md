@@ -11,7 +11,7 @@ The following are general remarks detailing our distro workflow:
 - 📦 Exceptionally, we may deliver **feature-based releases** (only tags/branches, no binaries) as **YYYY.MM.feat-nn**.
 - 👨‍💼 A **Distro Manager** oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow alway runs smoothly and timely.
 
-### 👨‍💼 Disto Manager
+### 👨‍💼 Distro Manager
 
 | Manager | Period |
 | :---: | :---: |
