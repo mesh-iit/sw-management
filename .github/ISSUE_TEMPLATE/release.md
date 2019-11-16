@@ -24,4 +24,11 @@ assignees: pattacini
 
 ## Testing
 
-<!-- Create an Epic and link all the related tasks -->
+<!--
+Once you filled in all the fields, do:
+- Create the Epic
+- Create the corresponding Release in ZenHub
+- Create the issues to track the required tasks
+- Link those issues to the Epic and to the Release
+- Ask to estimate the tasks
+-->
