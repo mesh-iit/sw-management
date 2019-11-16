@@ -8,4 +8,4 @@ The following are general remarks detailing our distro workflow:
 - 📛 Naming convention adheres therefore to **YYYY.MM**: e.g. 2020.02, 2020.05... Repos will stay on their usual tags convention in order to enable proper semantic versioning.
 - 🐛 Patches are coded as **YYYY.MM.nn**.
 - 📦 Exceptionally, we may deliver **feature-based releases** (only tags/branches, no binaries) as **YYYY.MM.feat-nn**.
-- 👨‍💼 A **Distro Manager** oversees the workflow guaranteeing that it will alway run smoothly and timely coordinating, the effort of the involved developers.
+- 👨‍💼 A **Distro Manager** oversees the workflow, guaranteeing that it will alway run smoothly and timely and coordinating the effort of the involved developers.
