@@ -11,6 +11,8 @@ The following are general remarks detailing our distro workflow:
 - 📦 Exceptionally, we may deliver **feature-based releases** (only tags/branches, no binaries) as **YYYY.MM.feat-nn**.
 - 👨‍💼 A [**Distro Manager**](#distro-manager-) oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow alway runs smoothly and timely.
 
+[![Release](https://img.shields.io/badge/Launch-Release-informational?style=for-the-badge&logo=webpack)](../../issues/new/choose)
+
 ### Distro Manager 👨‍💼
 
 | Manager | Period |
