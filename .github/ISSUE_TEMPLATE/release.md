@@ -8,9 +8,9 @@ assignees: pattacini
 ---
 
 ## Release Type
-- [ ] Time-based Distro, YYYY.MM
-- [ ] Time-based Distro Patch, YYYY.MM.nn
-- [ ] Feature-based Release, YYYY.MM.feat-nn
+- ✔ Time-based Distro, YYYY.MM
+- Time-based Distro Patch, YYYY.MM.nn
+- Feature-based Release, YYYY.MM.feat-nn
 
 ## Release Name
 
