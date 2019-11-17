@@ -1,11 +1,13 @@
 ---
-name: Release
-about: Template for managing a release
+name: Launch New Release
+about: Template for managing a new release.
 title: "[Release Name]"
 labels: ''
 assignees: pattacini
 
 ---
+
+<!-- Fill in the following sections -->
 
 ## Release Type
 - ✔ Time-based Distro, YYYY.MM
@@ -36,5 +38,5 @@ Once you have filled in all the fields, do:
 - Create the corresponding Release in ZenHub
 - Create the issues to track the required tasks
 - Link those issues to the Epic and to the Release
-- Ask to estimate the tasks
+- Ask to estimate the story points
 -->
