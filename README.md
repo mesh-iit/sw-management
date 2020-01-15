@@ -5,7 +5,7 @@
 ### SW Distros delivery 🚚
 The following are general remarks detailing our distro workflow:
 - 📅 SW Distros are delivered on a **time-based workflow**, rather than feature-based as we were used to.
-- 4️⃣ SW Distros are released along with the **binaries at each quarter**, aligned with Program Increments + 1, **PI+1**: 01-Feb, 01-May, 01-Aug, 01-Nov.
+- 4️⃣ SW Distros are released along with the **binaries at each quarter**, aligned with Program Increments + 1, **PI+1**: Feb, May, Aug, Nov.
 - 🆓 The feature-freeze lasts **one month**, aligned with **PI**.
 - 📛 Naming convention adheres therefore to **YYYY.MM**: e.g. 2020.02, 2020.05...
 - 📝 Repositories stay on their usual release convention in order to enable proper **semantic versioning**. To link repos tags to SW Distro, we rely on [public tables](http://wiki.icub.org/wiki/Software_Versioning_Table) and the [`robotology-superbuild`](https://github.com/robotology/robotology-superbuild).
