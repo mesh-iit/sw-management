@@ -11,9 +11,9 @@ The following are general remarks detailing our distro workflow:
 - 📝 Repositories stay on their usual release convention in order to enable proper **semantic versioning**. To link repos tags to SW Distro, we rely on [public tables](http://wiki.icub.org/wiki/Software_Versioning_Table) and the [`robotology-superbuild`](https://github.com/robotology/robotology-superbuild).
 - 🐛 Patches are coded as **YYYY.MM.nn**.
 - 📦 Exceptionally, we may deliver **feature-based releases** (only tags/branches, no binaries) as **YYYY.MM.feat-nn**.
-- 👨‍💼 A [**Distro Manager**](#distro-manager-) oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow alway runs smoothly and timely.
+- 👨‍💼 A [**Distro Manager**](#distro-manager-) oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow always runs smoothly and timely.
 
-### Distro Manager 👨‍💼
+### Distro Managers 👨‍💼
 
 | Manager | Start Date | End Date |
 | :--- | :--- | :--- |
