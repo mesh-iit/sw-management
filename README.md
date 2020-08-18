@@ -4,7 +4,7 @@
 
 ### SW Distros delivery 🚚
 The following are general remarks detailing our distro workflow:
-- 📅 SW Distros are delivered on a **time-based workflow**, rather than feature-based as we were used to.
+- 📅 SW Distros are delivered on a **time-based workflow**.
 - 4️⃣ SW Distros are released along with the **binaries at each quarter**, aligned with Program Increments + 1, **PI+1**: Feb, May, Aug, Nov.
 - 🆓 The feature-freeze lasts **one month**, aligned with the **Program Increments (PI)**.
 - 📛 Naming convention adheres therefore to **YYYY.MM**: e.g. 2020.02, 2020.05...
