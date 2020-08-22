@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/badge/Launch-New_Release-informational?style=for-the-badge&logo=webpack)](../../issues/new/choose)
 
-### SW Distros delivery 🚚
+### 🚚 SW Distros delivery
 The following are general remarks detailing our distro workflow:
 - 📅 SW Distros are delivered on a **time-based workflow**.
 - 4️⃣ SW Distros are released along with the **binaries at each quarter**, aligned with Program Increments + 1, **PI+1**: Feb, May, Aug, Nov.
@@ -13,7 +13,7 @@ The following are general remarks detailing our distro workflow:
 - 🐞 **Patches** are coded as **YYYY.MM.patch-nn** and, like the feature-based releases, are shipped only in terms of tags/branches.
 - 👨‍💼 A [**Distro Manager**](#distro-manager-) oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow always runs smoothly and timely.
 
-### Distro Managers 👨‍💼
+### 👨🏻‍💻 Distro Managers
 
 | Manager | Start Date | End Date |
 | :--- | :--- | :--- |
