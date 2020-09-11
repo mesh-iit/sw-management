@@ -1,3 +1,5 @@
+# groups can be modified by opening PR in icub-tech-iit/outside-collaborators
+
 dic-iit/sw-dev:
   type: "group"
   permission: "read"
