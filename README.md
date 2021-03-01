@@ -17,5 +17,5 @@ The following are general remarks detailing our distro workflow:
 
 | Manager | Start Date | End Date |
 | :--- | :--- | :--- |
-| [@pattacini](https://github.com/pattacini) | 2019/11 | 2020/04 |
 | [@Nicogene](https://github.com/Nicogene) | 2020/04 | in charge |
+| [@pattacini](https://github.com/pattacini) | 2019/11 | 2020/04 |
