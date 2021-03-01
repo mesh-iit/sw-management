@@ -1,7 +1,7 @@
 ---
 name: Open Apps Issue
 about: Template for managing the apps deployment issue.
-title: 'Deployment of applications for 2021.02'
+title: 'Deployment of applications for YYYY.MM'
 labels: 'team-code'
 assignees: 'vtikha'
 
