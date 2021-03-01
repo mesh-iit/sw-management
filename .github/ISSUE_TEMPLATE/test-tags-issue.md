@@ -1,8 +1,9 @@
+---
 name: Open Test Tags Issue
 about: Template for managing the test of tags issue.
 title: 'Test the distro YYYY.MM tags on iCub'
 labels: 'roboit-icub'
-assignees: 
+assignees: ''
 
 ---
 
