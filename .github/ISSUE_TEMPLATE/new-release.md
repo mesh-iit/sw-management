@@ -3,7 +3,7 @@ name: Launch New Release
 about: Template for managing a new release.
 title: "[Release Name]"
 labels: ''
-assignees: pattacini
+assignees: Nicogene
 
 ---
 
@@ -11,7 +11,7 @@ assignees: pattacini
 
 ## Release Type
 - ✔ Time-based Distro, YYYY.MM
-- Time-based Distro Patch, YYYY.MM.nn
+- Time-based Distro Patch, YYYY.MM.patch-nn
 - Feature-based Release, YYYY.MM.feat-nn
 
 ## Release Name
