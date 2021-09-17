@@ -1,7 +1,7 @@
 ---
 name: Open Packets Issue 
 about: Template for managing the issue about packets creation and deployment.
-title: 'Deb packets creation distro YYYY.MM'
+title: 'Deb packets creation distro YYYY.MM.0'
 labels: 'robot-icub'
 assignees: 'mbrunettini'
 
@@ -9,7 +9,7 @@ assignees: 'mbrunettini'
 <!-- Fill in the following sections -->
 
 ## Description
-This issue keeps track of the deb packets creation for the distro `YYYY.MM`.
+This issue keeps track of the deb packets creation for the distro `YYYY.MM.0`.
 
 It consists of:
 
