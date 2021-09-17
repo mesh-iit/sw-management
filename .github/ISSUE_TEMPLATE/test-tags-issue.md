@@ -1,7 +1,7 @@
 ---
 name: Open Test Tags Issue
 about: Template for managing the test of tags issue.
-title: 'Test the distro YYYY.MM tags on iCub'
+title: 'Test the distro YYYY.MM.0 tags on iCub'
 labels: 'robot-icub'
 assignees: ''
 
