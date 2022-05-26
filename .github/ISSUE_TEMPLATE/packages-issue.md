@@ -1,9 +1,9 @@
 ---
-name: Open Packets Issue 
+name: Open Packages Issue 
 about: Template for managing the issue about packets creation and deployment.
-title: 'Deb packets creation distro YYYY.MM.0'
+title: 'Deb packages creation distro YYYY.MM.0'
 labels: 'robot-icub'
-assignees: 'mbrunettini'
+assignees: 'Nicogene'
 
 ---
 <!-- Fill in the following sections -->
@@ -13,6 +13,7 @@ This issue keeps track of the deb packets creation for the distro `YYYY.MM.0`.
 
 It consists of:
 
+- [ ] Creation of `ycm` packages.
 - [ ] Creation of `yarp` packages.
 - [ ] Creation of `icub-common` and `icub` packages.
 - [ ] Upload packages on GitHub.
