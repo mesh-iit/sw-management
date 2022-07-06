@@ -24,6 +24,8 @@ assignees: Nicogene
 
 ## Release Description
 
+🗒️HackMD link: 
+
 <!--
 Once you have filled in all the fields, do:
 - Create the Epic
