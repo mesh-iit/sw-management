@@ -1,6 +1,6 @@
 ---
 name: Open Packages Issue 
-about: Template for managing the issue about packets creation and deployment.
+about: Template for managing the issue about packages creation and deployment.
 title: 'Deb packages creation distro YYYY.MM.0'
 labels: 'robot-icub'
 assignees: 'Nicogene'
