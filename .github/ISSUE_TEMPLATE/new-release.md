@@ -22,6 +22,15 @@ assignees: Nicogene
 | Expected | YYYY/MM/DD |
 | Robot Delivery (if applicable) | YYYY/MM/DD |
 
+
+## ⛔ Blocking items
+A list of things that need to be necessarily completed ahead of the distro:
+- [ ] Blocking item1
+
+## 🎁 Nonblocking items
+A list of the nice to have:
+- [ ] Nonblocking item1
+
 ## Release Description
 
 🗒️HackMD link: 
