@@ -16,7 +16,7 @@ assignees: Nicogene
 
 ## Release Name
 
-## Release Deadline
+## ⏰ Release Deadline
 | Deadline | Date |
 | :--- | :--- |
 | Expected | YYYY/MM/DD |
