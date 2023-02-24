@@ -24,11 +24,11 @@ assignees: Nicogene
 
 
 ## ⛔ Blocking items
-A list of things that need to be necessarily completed ahead of the distro:
+A list of tasks that need to be necessarily completed ahead of the distro:
 - [ ] Blocking item1
 
 ## 🎁 Nonblocking items
-A list of the nice to have:
+A list of nice-to-have items:
 - [ ] Nonblocking item1
 
 ## Release Description
