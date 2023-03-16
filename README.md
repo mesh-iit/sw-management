@@ -1,5 +1,5 @@
-SW Distro Management
-====================
+SW Management
+=============
 
 [![Release](https://img.shields.io/badge/Launch-New_Release-informational?style=for-the-badge&logo=webpack)](../../issues/new/choose)
 
