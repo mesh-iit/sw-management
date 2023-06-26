@@ -10,9 +10,9 @@ assignees: Nicogene
 <!-- Fill in the following sections -->
 
 ## Release Type
-- ✔ Time-based Distro, YYYY.MM.P
-- Time-based Distro Patch, YYYY.MM.P
-- Feature-based Release, YYYY.MM.P
+- Time-based Distro, YYYY.MM.P
+- Distro Patch, YYYY.MM.P
+- Distro Feature, YYYY.MM.P
 
 ## Release Name
 
