@@ -31,6 +31,10 @@ A list of tasks that need to be necessarily completed ahead of the distro:
 A list of nice-to-have items:
 - [ ] Nonblocking item1
 
+## 🏷️ Repositories to tag
+The list of repositories to be tagged before shipping the distro
+- [ ] Repository1: tag1
+
 ## Release Description
 
 🗒️HackMD link: 
