@@ -9,4 +9,4 @@ assignees:
 
 ### Task description
 
-## Definition of done
+### Definition of done
