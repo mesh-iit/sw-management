@@ -39,7 +39,7 @@ The list of repositories to be tagged before shipping the distro
 
 🗒️HackMD link: 
 
-cc @traversaro @pattacini @randaz81 @GiulioRomualdi @S-Dafarra @elandini84
+cc @pattacini @randaz81 @elandini84
 
 <!--
 Once you have filled in all the fields, do:
