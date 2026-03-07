@@ -6,7 +6,7 @@ SW Management
 [![Discussion](https://img.shields.io/badge/Launch-New_Discussion-informational?style=for-the-badge&logo=wechat)](../../discussions/new/choose)
 
 ### 🚚 SW Distros delivery
-The Distro workflow is detailed in our [**documentation** 🌐](https://icub-tech-iit.github.io/documentation/sw_versioning_table/#software-distros-workflow)
+The Distro workflow is detailed in our [**documentation** 🌐](https://mesh-iit.github.io/documentation/sw_versioning_table/#software-distros-workflow)
 
 ### 👨🏻‍💻 Distro Managers
  A **Distro Manager** 👨‍ oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow always runs smoothly and timely.
