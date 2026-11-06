@@ -1,17 +1,43 @@
-SW Management
-=============
+# SW Management
 
-This repository is now public. It continues to track all tasks related to each release, and also tracks new development work and bug fixes that require changes to the repositories for the robots' software and firmware.
+#### 📣 Public repository — November 6, 2026  🌐
+
+As of November 6, 2026, this repository is public and its scope
+extends beyond release management. It now serves two main purposes:
+coordinating software releases and tracking development work and
+bug fixes across the robots' software and firmware repositories.
+
+### 🎯 Our objectives
+
+#### 🚚 **1. Coordinate software releases**
+
+Track all tasks related to each release and coordinate the delivery
+of software distributions (Distros).
+
+The Distro workflow is described in our
+[documentation](https://mesh-iit.github.io/documentation/sw_versioning_table/#software-distros-workflow).
 
 [![Release](https://img.shields.io/badge/Launch-New_Release-informational?style=for-the-badge&logo=webpack)](../../issues/new/choose)
 
+#### 🛠️ **2. Track development and bug fixes**
+
+Track new features and bug fixes across the robots’ software and firmware repositories, including work that is not yet tied to a specific release.
+
+Each tracking issue must link to the related issues in the individual repositories, where available, and to all relevant pull requests.
+
+### 💬 General discussions
+
+Use Discussions for general questions, ideas, and exchanges.
+Development tasks and bug fixes must be tracked through Issues,
+with the repository issue and pull request references described above.
+
 [![Discussion](https://img.shields.io/badge/Launch-New_Discussion-informational?style=for-the-badge&logo=wechat)](../../discussions/new/choose)
 
-### 🚚 SW Distros delivery
-The Distro workflow is detailed in our [**documentation** 🌐](https://mesh-iit.github.io/documentation/sw_versioning_table/#software-distros-workflow)
+### 👥 Distro Managers
 
-### 👨🏻‍💻 Distro Managers
- A **Distro Manager** 👨‍ oversees the workflow, coordinates the effort of the involved developers, and guarantees that the workflow always runs smoothly and timely.
+The **Distro Manager** oversees the release workflow, coordinates
+the developers involved, and ensures that delivery progresses
+smoothly and on schedule.
 
 | Manager | Start Date | End Date |
 | :--- | :--- | :--- |
