@@ -1,6 +1,8 @@
 SW Management
 =============
 
+This repository is now public. It continues to track all tasks related to each release, and also tracks new development work and bug fixes that require changes to the repositories for the robots' software and firmware.
+
 [![Release](https://img.shields.io/badge/Launch-New_Release-informational?style=for-the-badge&logo=webpack)](../../issues/new/choose)
 
 [![Discussion](https://img.shields.io/badge/Launch-New_Discussion-informational?style=for-the-badge&logo=wechat)](../../discussions/new/choose)
